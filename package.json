@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JavaScript with TDD library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterblizzard/jsvascript-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Filipe Machado <ax-filipe@hotmail.com> (https://www.github.com/misterblizzard)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misterblizzard/jsvascript-tdd/issues"
+  },
+  "homepage": "https://github.com/misterblizzard/jsvascript-tdd#readme"
+}
